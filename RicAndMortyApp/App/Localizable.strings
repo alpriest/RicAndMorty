@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  RicAndMorty
+
+  Created by Alistair Priest on 03/03/2022.
+  
+*/
+
+LOAD_FAILURE="Could not load. Please check your connection.";

@@ -1,0 +1,16 @@
+{
+  "info": {
+    "count": 2,
+    "pages": 1,
+    "next": null,
+    "prev": null
+  },
+  "results": [
+    {
+      "name": "foo"
+    },
+    {
+      "name": "bar"
+    }
+  ]
+}
